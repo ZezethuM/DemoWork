@@ -7,3 +7,4 @@ function arrayPlusArray(arr1, arr2) {
   }
   return sum;
 }
+arrayPlusArray([1,2,4,5],[6,8,9]);
